@@ -1,4 +1,4 @@
-package src;
+package simulateur;
 
 import java.awt.BorderLayout;
 import java.awt.Dimension;
