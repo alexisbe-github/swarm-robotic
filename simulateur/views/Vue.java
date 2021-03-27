@@ -26,7 +26,7 @@ public class Vue extends JPanel implements Observer {
 		super();
 		this.setBackground(Color.WHITE);
 		try {
-			this.image = ImageIO.read(new File("src/image/fleche.png"));
+			this.image = ImageIO.read(new File("image/fleche.png"));
 		} catch (IOException e) {
 			e.printStackTrace();
 		}
