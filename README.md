@@ -7,8 +7,4 @@ Projet de DUT Informatique de 2ème année à l'IUT Nancy-Charlemagne développ�
 ***
 Architecture du projet
 
-<img
-src=“images/diagramme.jpg”
-raw=true
-style=“margin-right: 10px;”
-/>
+![Image architecture](image/diagramme.png)
