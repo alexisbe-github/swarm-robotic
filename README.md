@@ -7,4 +7,4 @@ Projet de DUT Informatique de 2ème année à l'IUT Nancy-Charlemagne développ�
 ***
 Architecture du projet
 
-![Image architecture](image/diagramme.png)
+![Image architecture](diagramme.png)
