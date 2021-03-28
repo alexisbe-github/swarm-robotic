@@ -10,6 +10,5 @@ Architecture du projet
 <img
 src=“images/diagramme.jpg”
 raw=true
-alt=“Subject Pronouns”
 style=“margin-right: 10px;”
 />
